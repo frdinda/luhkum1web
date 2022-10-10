@@ -1,0 +1,65 @@
+h1.navbar-align.judul {
+  font-weight: bold;
+  color: #000814;
+}
+
+label.label-pertanyaan {
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+span.bintang-label-pertanyaan {
+  color: red;
+}
+
+span.bintang-label-jawaban {
+  color: red;
+}
+
+.card .card-header {
+  background: transparent;
+}
+
+body a {
+  text-decoration: none;
+}
+
+body a:hover {
+  text-decoration: none;
+}
+
+body .row a {
+  text-decoration: none;
+  color: #000814;
+}
+
+body .row a.btn {
+  text-decoration: none;
+  color: white;
+}
+
+body .row a.btn:hover {
+  text-decoration: none;
+  color: white;
+}
+
+body .row a.with-text-decoration {
+  text-decoration: underline;
+  color: #000814;
+}
+
+body .row a.with-text-decoration:hover {
+  text-decoration: none;
+  color: #000814;
+}
+
+#sig-canvas {
+  border: 2px dotted #cccccc;
+  border-radius: 15px;
+  cursor: crosshair;
+}
+
+.main.print {
+  background-color: white;
+}
+
